@@ -56,10 +56,10 @@ warnings.filterwarnings('ignore')
 import pandas 
 
 #Read the train dataset
-dataset = pandas.read_csv("C:/Users/Idrees/Google Drive/MSA/Machine Learning/Kaggle/allstate_train.csv") 
+dataset = pandas.read_csv("C:/Users/Google Drive/MSA/Machine Learning/Kaggle/allstate_train.csv") 
 
 #Read test dataset
-dataset_test = pandas.read_csv("C:/Users/Idrees/Google Drive/MSA/Machine Learning/Kaggle/allstate_test.csv")
+dataset_test = pandas.read_csv("C:/Users/Google Drive/MSA/Machine Learning/Kaggle/allstate_test.csv")
 #Save the id's for submission file
 ID = dataset_test['id']
 #Drop unnecessary columns
