@@ -34,7 +34,7 @@ library(xtable)
 
 ###Load Data
 ```{r}
-dir = "C:\\Users\\sbessias\\Google Drive\\NCSU\\Data Mining\\HW Data\\"
+dir = "\\Google Drive\\NCSU\\Data Mining\\HW Data\\"
 rest = read_csv(paste(dir, "restaurantData.csv", sep = ""))
 ```
 
