@@ -1,3 +1,3 @@
 # Graduate-coursework
 
-Coursework and projects for graduate school
+Grad school coursework homeworks and projects
