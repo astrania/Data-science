@@ -1,3 +1,1 @@
-# Graduate-coursework
-
-Grad school homeworks and projects
+data science scripts
